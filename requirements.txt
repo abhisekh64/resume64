@@ -1,0 +1,109 @@
+altgraph @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/altgraph-0.17.4-py2.py3-none-any.whl
+arabic-reshaper @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/arabic_reshaper-3.0.0-py3-none-any.whl
+asgiref==3.7.2
+asn1crypto @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/asn1crypto-1.5.1-py2.py3-none-any.whl
+attrs @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/attrs-24.2.0-py3-none-any.whl
+autobahn @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/autobahn-24.4.2-py2.py3-none-any.whl
+Automat @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/Automat-24.8.1-py3-none-any.whl
+Brotli @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/Brotli-1.1.0-cp311-cp311-win_amd64.whl
+certifi==2024.8.30
+cffi==1.17.1
+channels @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/channels-4.2.0-py3-none-any.whl
+chardet @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/chardet-5.2.0-py3-none-any.whl
+charset-normalizer==3.4.0
+colorama==0.4.6
+constantly @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/constantly-23.10.4-py3-none-any.whl
+cryptography==43.0.3
+cssselect2 @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/cssselect2-0.8.0-py3-none-any.whl
+cx-Freeze @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/cx_Freeze-6.15.13-cp311-cp311-win_amd64.whl
+cx_Logging==3.2.1
+daphne @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/daphne-4.1.2-py3-none-any.whl
+defusedxml @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/defusedxml-0.8.0rc2-py2.py3-none-any.whl
+distlib @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/distlib-0.3.9-py2.py3-none-any.whl
+Django==4.2.20
+django-allauth @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_allauth-65.0.2.tar.gz
+django-autoslug @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_autoslug-1.9.9-py2.py3-none-any.whl
+django-cities-light @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_cities_light-3.10.1-py3-none-any.whl
+django-cleanup @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_cleanup-9.0.0-py3-none-any.whl
+django-countries @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_countries-7.6.1-py3-none-any.whl
+django-debug-toolbar @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_debug_toolbar-5.1.0-py3-none-any.whl
+django-filter @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_filter-23.5-py3-none-any.whl
+django-htmx @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/django_htmx-1.19.0-py3-none-any.whl
+djangorestframework @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/djangorestframework-3.14.0-py3-none-any.whl
+et_xmlfile @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/et_xmlfile-2.0.0-py3-none-any.whl
+filelock @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/filelock-3.18.0-py3-none-any.whl
+fonttools @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/fonttools-4.56.0-cp311-cp311-win_amd64.whl
+gunicorn @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/gunicorn-20.1.0-py3-none-any.whl
+html5lib @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/html5lib-1.1-py2.py3-none-any.whl
+hyperlink==21.0.0
+idna==3.10
+incremental==24.7.2
+iniconfig==2.1.0
+lief==0.14.0
+lxml @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/lxml-5.4.0-cp311-cp311-win_amd64.whl
+Markdown @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/Markdown-3.5.1-py3-none-any.whl
+numpy @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/numpy-2.2.2-cp311-cp311-win_amd64.whl
+oauthlib==3.2.2
+openpyxl @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/openpyxl-3.1.5-py2.py3-none-any.whl
+oscrypto @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/oscrypto-1.3.0-py2.py3-none-any.whl
+package_name @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/package_name-0.1.tar.gz
+packaging @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/packaging-25.0-py3-none-any.whl
+pandas @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pandas-2.2.3-cp311-cp311-win_amd64.whl
+pdfkit @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pdfkit-1.0.0-py3-none-any.whl
+pefile @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pefile-2024.8.26-py3-none-any.whl
+pillow @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pillow-10.4.0-cp311-cp311-win_amd64.whl
+platformdirs @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/platformdirs-4.3.7-py3-none-any.whl
+pluggy==1.6.0
+progressbar2==4.5.0
+psycopg2-binary @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/psycopg2_binary-2.9.10-cp311-cp311-win_amd64.whl
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
+pycparser==2.22
+pydyf @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pydyf-0.11.0-py3-none-any.whl
+Pygments==2.19.1
+pyHanko @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pyhanko-0.29.0-py3-none-any.whl
+pyhanko-certvalidator==0.27.0
+pyinstaller @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pyinstaller-6.4.0-py3-none-win_amd64.whl
+pyinstaller-hooks-contrib==2025.4
+PyJWT @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/PyJWT-2.9.0-py3-none-any.whl
+pyOpenSSL==24.3.0
+pypdf @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pypdf-5.5.0-py3-none-any.whl
+PyPDF2 @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pypdf2-3.0.1-py3-none-any.whl
+pyphen @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pyphen-0.17.2-py3-none-any.whl
+pytest==8.4.0
+python-bidi @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/python_bidi-0.6.6-cp311-cp311-win_amd64.whl
+python-dateutil==2.9.0.post0
+python-dotenv @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/python_dotenv-1.1.0-py3-none-any.whl
+python-utils==3.9.1
+python3-openid==3.2.0
+pytz==2023.3.post1
+pywin32 @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/pywin32-306-cp311-cp311-win_amd64.whl
+pywin32-ctypes==0.2.3
+PyYAML==6.0.2
+razorpay @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/razorpay-1.4.2-py3-none-any.whl
+reportlab @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/reportlab-4.3.1-py3-none-any.whl
+requests==2.32.3
+requests-oauthlib==2.0.0
+service-identity==24.2.0
+shortuuid @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/shortuuid-1.0.13-py3-none-any.whl
+six==1.17.0
+social-auth-app-django @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/social_auth_app_django-5.4.2-py3-none-any.whl
+social-auth-core==4.5.4
+sqlparse==0.4.4
+svglib @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/svglib-1.5.1.tar.gz
+tinycss2==1.4.0
+tinyhtml5 @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/tinyhtml5-2.0.0-py3-none-any.whl
+Twisted==24.10.0
+txaio==23.1.1
+typing_extensions==4.12.2
+tzdata==2023.3
+tzlocal==5.3.1
+Unidecode==1.3.8
+uritools==5.0.0
+urllib3==2.2.3
+virtualenv @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/virtualenv-20.30.0-py3-none-any.whl
+weasyprint @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/weasyprint-65.0-py3-none-any.whl
+webencodings==0.5.1
+xhtml2pdf @ file:///C:/Users/abhis/AppData/Local/ContainerManagementSystem/offline_packages/xhtml2pdf-0.2.17-py3-none-any.whl
+zope.interface==7.2
+zopfli==0.2.3.post1
